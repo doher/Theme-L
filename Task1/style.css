@@ -5,5 +5,5 @@ table.CHESS {
 table.CHESS td {
     width: 50px;
     height: 50px;
-    border: solid gray 1px;
+    border: solid rgb(128, 128, 128) 1px;
 }
